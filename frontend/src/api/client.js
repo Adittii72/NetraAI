@@ -1,8 +1,10 @@
 import axios from 'axios';
 
-// Use production backend URL if in production, otherwise localhost
+// Production backend URL on Render
+const PRODUCTION_BACKEND_URL = 'https://netraai-backend.onrender.com';
+
 const API_BASE_URL = process.env.REACT_APP_API_URL || 
-  (window.location.hostname === 'localhost' ? 'http://localhost:8000' : 'https://netraai-backend.onrender.com');
+  (window.location.hostname === 'localhost' ? 'http://localhost:8000' : PRODUCTION_BACKEND_URL);
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
