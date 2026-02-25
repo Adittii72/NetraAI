@@ -24,15 +24,11 @@ app = FastAPI(
     description=config.API_DESCRIPTION + " - Powered by Neo4j Graph Database"
 )
 
-# CORS middleware
+# CORS middleware - Allow all origins for simplicity
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3000",
-        "https://netraai-frontend.onrender.com",
-        "https://netraai-frontend-*.onrender.com"  # Allow preview deployments
-    ],
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,  # Must be False when using allow_origins=["*"]
     allow_methods=["*"],
     allow_headers=["*"],
 )
