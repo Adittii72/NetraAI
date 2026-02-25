@@ -24,13 +24,15 @@ app = FastAPI(
     description=config.API_DESCRIPTION + " - Powered by Neo4j Graph Database"
 )
 
-# CORS middleware - Allow all origins for simplicity
+# CORS middleware - Allow all origins
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=False,  # Must be False when using allow_origins=["*"]
-    allow_methods=["*"],
+    allow_credentials=False,
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
+    expose_headers=["*"],
+    max_age=3600,
 )
 
 # Global variables
