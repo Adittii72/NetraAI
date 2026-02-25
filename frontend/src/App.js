@@ -5,6 +5,7 @@ import NetworkView from './components/NetworkView';
 import EntityProfile from './components/EntityProfile';
 import InvestigationReport from './components/InvestigationReport';
 import PerformanceComparison from './components/PerformanceComparison';
+import TestBackend from './components/TestBackend';
 
 function Navigation() {
   const location = useLocation();
@@ -106,6 +107,7 @@ function App() {
             <Route path="/" element={<Dashboard />} />
             <Route path="/network" element={<NetworkView />} />
             <Route path="/performance" element={<PerformanceComparison />} />
+            <Route path="/test" element={<TestBackend />} />
             <Route path="/entity/:entityId" element={<EntityProfile />} />
             <Route path="/investigation/:entityId" element={<InvestigationReport />} />
           </Routes>

@@ -12,20 +12,37 @@ const getApiUrl = () => {
     return 'http://localhost:8000';
   }
   
-  // Otherwise, use production backend
+  // Otherwise, use production backend (force HTTPS)
   return 'https://netraai-backend.onrender.com';
 };
 
 const API_BASE_URL = getApiUrl();
 
-console.log('API Base URL:', API_BASE_URL); // Debug log
+console.log('API Base URL:', API_BASE_URL);
+console.log('Current hostname:', window.location.hostname);
+console.log('Protocol:', window.location.protocol);
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
   headers: {
     'Content-Type': 'application/json',
+    'Accept': 'application/json',
   },
+  withCredentials: false,
+  timeout: 30000,
 });
+
+// Add response interceptor for better error handling
+apiClient.interceptors.response.use(
+  response => response,
+  error => {
+    console.error('API Error:', error);
+    if (error.code === 'ERR_BLOCKED_BY_CLIENT') {
+      console.error('Request blocked by browser. Try disabling extensions or using a different browser.');
+    }
+    return Promise.reject(error);
+  }
+);
 
 export const api = {
   // Dashboard
