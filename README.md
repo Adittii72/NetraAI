@@ -11,20 +11,6 @@
 
 Not just a fraud detection model—a complete investigative platform that empowers government analysts to identify and prevent corruption before it escalates.
 
-## 📚 Quick Navigation
-
-| Document | Purpose | Time to Read |
-|----------|---------|--------------|
-| **[QUICK_START.md](QUICK_START.md)** | Get running in 5 minutes | 5 min |
-| **[DEMO_GUIDE.md](DEMO_GUIDE.md)** | Presentation walkthrough | 10 min |
-| **[SETUP.md](SETUP.md)** | Complete installation guide | 15 min |
-| **[ARCHITECTURE.md](ARCHITECTURE.md)** | Technical deep dive | 20 min |
-| **[FEATURES.md](FEATURES.md)** | Feature checklist (100+) | 10 min |
-| **[PRESENTATION_OUTLINE.md](PRESENTATION_OUTLINE.md)** | Slide-by-slide script | 15 min |
-| **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** | Complete project overview | 10 min |
-
-**👉 First time? Start with [QUICK_START.md](QUICK_START.md)**
-
 ## 🏗️ System Architecture
 
 ```
@@ -50,7 +36,6 @@ Analyst Dashboard (React)
 - Production-grade graph database
 - 10-16x faster queries
 - Scales to millions of entities
-- See [NEO4J_SETUP.md](NEO4J_SETUP.md) for setup
 
 ## ✨ Key Features
 
@@ -84,7 +69,7 @@ Analyst Dashboard (React)
 **🚀 Frontend Application:** [Deploy to get your URL]  
 **⚡ Backend API:** [Deploy to get your URL]  
 **📚 API Documentation:** [Your Backend URL]/docs  
-**💻 GitHub Repository:** https://github.com/YOUR_USERNAME/NetraAI
+**💻 GitHub Repository:** https://github.com/Adittii72/NetraAI
 
 ### ⚠️ First Load Notice
 Free tier services sleep after 15 minutes. First request may take 30-60 seconds to wake up.
@@ -149,21 +134,15 @@ This project uses **Neo4j Aura** - a fully managed cloud graph database:
 - Console: https://console.neo4j.io
 - Instance: netraai-db
 
-See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for complete setup instructions.
 
 ### 🌐 Cloud Deployment
 
-**Want to deploy for judges?** See [QUICK_DEPLOY.md](QUICK_DEPLOY.md) for 15-minute deployment guide.
 
 **Deployment Options:**
 - **Render + Neo4j Aura** (Recommended) - Free tier, production-ready
 - **Railway** - All-in-one platform
 - **Vercel + Render** - Optimized frontend
 
-**Complete guides:**
-- [QUICK_DEPLOY.md](QUICK_DEPLOY.md) - Fast deployment (15 min)
-- [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) - Detailed deployment options
-- [DEPLOYMENT_NOTE.md](DEPLOYMENT_NOTE.md) - Important notes for judges
 
 ## 🗄️ Database: Neo4j Aura Cloud
 
@@ -189,12 +168,6 @@ Status: Active
 2. Start backend: `python backend/api_neo4j.py`
 3. Access frontend: http://localhost:3000
 
-**See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for complete documentation.**
-
-## 📖 Documentation
-
-- **[SETUP.md](SETUP.md)** - Complete installation and configuration guide
-- **[DEMO_GUIDE.md](DEMO_GUIDE.md)** - Presentation and demo walkthrough
 
 ## 🎨 Platform Overview
 
@@ -430,7 +403,6 @@ NetraAI/
 3. **Network View** - Interactive graph exploration
 4. **Investigation Report** - Generate and export report
 
-See [DEMO_GUIDE.md](DEMO_GUIDE.md) for detailed presentation script.
 
 ## 🏆 What Makes It Government-Grade
 
@@ -507,13 +479,6 @@ Contributions welcome! Areas for enhancement:
 - Temporal analysis
 - Real-time alerts
 - Multi-language support
-
-## 📞 Support
-
-For questions or issues:
-- Review [SETUP.md](SETUP.md) for installation help
-- Check [DEMO_GUIDE.md](DEMO_GUIDE.md) for usage guidance
-- Open an issue for bugs or feature requests
 
 ---
 
