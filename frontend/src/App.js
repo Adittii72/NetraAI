@@ -12,8 +12,13 @@ function Navigation() {
   const [dbStatus, setDbStatus] = React.useState(null);
   
   React.useEffect(() => {
+    // Determine API URL
+    const apiUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+      ? 'http://localhost:8000'
+      : 'https://netraai-backend.onrender.com';
+    
     // Check database status
-    fetch('http://localhost:8000/api/neo4j/status')
+    fetch(`${apiUrl}/api/neo4j/status`)
       .then(res => res.json())
       .then(data => setDbStatus(data))
       .catch(err => console.error('Failed to get DB status:', err));
