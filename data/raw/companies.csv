@@ -1,0 +1,501 @@
+company_id,name,registration_year,industry_type,address,fraud_label
+COMP_0000,Venture Systems Ltd.,2018,Transportation,"251 Oak St, City 23434",0
+COMP_0001,Venture Labs Ltd.,2013,Telecommunications,"33 Main St, City 38657",0
+COMP_0002,Prime Labs Ltd.,2012,Manufacturing,"734 Central St, Town 38893",0
+COMP_0003,Apex Holdings Ltd.,2019,Healthcare,"715 Park St, Town 46421",1
+COMP_0004,Smart Group corp.,2021,IT Services,"6 Dummy Street, Shell City 00000",1
+COMP_0005,Quantum Holdings Ltd.,2018,Engineering,"550 Main St, Town 20328",1
+COMP_0006,Nexus Holdings corp.,2013,Manufacturing,"722 Main St, City 96673",0
+COMP_0007,Prime Holdings Ltd.,2022,Manufacturing,"888 Main St, Town 46434",1
+COMP_0008,Apex Enterprises Inc.,2006,Energy,"215 Elm St, Village 99593",0
+COMP_0009,Venture Systems Inc.,2012,Finance,"251 Oak St, Town 59735",0
+COMP_0010,Elite Labs Inc.,2016,Energy,"864 Main St, City 14207",0
+COMP_0011,Forward Industries corp.,1997,Manufacturing,"936 Central St, Village 51245",0
+COMP_0012,Prime Ventures LLC,2023,Architecture,"470 Oak St, Town 28301",0
+COMP_0013,Prime Labs corp.,2018,Security Services,"439 Central St, Town 57447",1
+COMP_0014,Prime Services LLC,1997,Construction,"882 Main St, City 92240",0
+COMP_0015,Smart Industries Ltd.,2007,Telecommunications,"611 Park St, Village 42953",1
+COMP_0016,Nexus Solutions Ltd.,2016,Consulting,"769 Elm St, Village 54587",0
+COMP_0017,Global Holdings LLC,2000,Engineering,"4 Elm St, Village 33416",1
+COMP_0018,Nexus Systems corp.,2021,Architecture,"520 Central St, City 30032",1
+COMP_0019,Forward Services Ltd.,2014,Energy,"501 Main St, City 57576",1
+COMP_0020,Elite Group Ltd.,2002,Security Services,"970 Main St, City 73699",0
+COMP_0021,Global Labs Inc.,1999,Architecture,"487 Central St, City 44741",0
+COMP_0022,Nexus Industries Inc.,2012,Finance,"707 Oak St, Village 50857",0
+COMP_0023,Dynamic Enterprises LLC,2023,Consulting,"463 Main St, City 39451",0
+COMP_0024,Global Enterprises Ltd.,2013,Consulting,"236 Central St, City 10942",0
+COMP_0025,Global Solutions Inc.,1997,Construction,"881 Elm St, City 77391",0
+COMP_0026,Prime Holdings LLC,2001,Consulting,"136 Central St, Village 71953",1
+COMP_0027,Prime Ventures LLC,2019,IT Services,"5 Dummy Street, Shell City 00000",1
+COMP_0028,Dynamic Ventures Ltd.,2016,Architecture,"662 Main St, City 62772",0
+COMP_0029,Summit Enterprises Ltd.,2002,Manufacturing,"195 Central St, Town 28373",0
+COMP_0030,Dynamic Services corp.,2009,Manufacturing,"896 Main St, Town 82132",0
+COMP_0031,Global Solutions Ltd.,2019,Manufacturing,"5 Dummy Street, Shell City 00000",1
+COMP_0032,Prime Industries Ltd.,2000,Telecommunications,"3 Park St, Town 69638",0
+COMP_0033,Elite Industries LLC,1999,Manufacturing,"304 Oak St, City 85914",1
+COMP_0034,Summit Labs Ltd.,2018,Energy,"59 Main St, Village 72493",0
+COMP_0035,Nexus Labs Inc.,1996,Consulting,"83 Oak St, City 87992",0
+COMP_0036,Global Group LLC,1998,Security Services,"253 Central St, Village 15209",1
+COMP_0037,Quantum Systems LLC,2016,Security Services,"579 Central St, Town 44179",0
+COMP_0038,Prime Enterprises Inc.,2003,Telecommunications,"135 Elm St, Town 51441",0
+COMP_0039,Global Solutions LLC,2014,Security Services,"103 Main St, Village 37938",1
+COMP_0040,Nexus Holdings Inc.,2006,IT Services,"901 Oak St, Town 47353",1
+COMP_0041,Smart Ventures corp.,2014,Architecture,"542 Main St, Village 82692",0
+COMP_0042,Elite Systems Inc.,2003,IT Services,"912 Main St, Village 82512",1
+COMP_0043,Smart Holdings corp.,2014,Manufacturing,"735 Elm St, City 93130",1
+COMP_0044,Elite Labs LLC,2003,Construction,"95 Park St, Town 15778",0
+COMP_0045,Tech Enterprises Inc.,2021,Transportation,"6 Dummy Street, Shell City 00000",1
+COMP_0046,Nexus Solutions Ltd.,1997,Finance,"926 Oak St, Village 14722",0
+COMP_0047,Forward Labs Inc.,2008,Healthcare,"43 Elm St, Town 15229",0
+COMP_0048,Forward Group Inc.,2016,IT Services,"363 Central St, Town 91351",0
+COMP_0049,Summit Services Inc.,2022,Healthcare,"820 Oak St, Town 13248",0
+COMP_0050,Smart Enterprises LLC,2020,Architecture,"885 Oak St, Town 30866",1
+COMP_0051,Summit Systems LLC,2022,Construction,"880 Park St, City 36158",0
+COMP_0052,Apex Enterprises corp.,2021,Manufacturing,"229 Main St, Village 35313",0
+COMP_0053,Dynamic Enterprises corp.,2022,IT Services,"991 Elm St, Town 94080",0
+COMP_0054,Nexus Industries corp.,1995,IT Services,"899 Elm St, City 86099",0
+COMP_0055,Elite Solutions Ltd.,2014,Telecommunications,"354 Elm St, Town 89457",0
+COMP_0056,Nexus Systems LLC,2018,Security Services,"9 Dummy Street, Shell City 00000",1
+COMP_0057,Tech Labs Inc.,2006,Telecommunications,"72 Elm St, Village 51145",1
+COMP_0058,Venture Systems corp.,2011,Transportation,"683 Park St, Town 62743",1
+COMP_0059,Summit Holdings Inc.,2001,Telecommunications,"681 Park St, Village 32810",0
+COMP_0060,Quantum Holdings LLC,2012,Construction,"312 Elm St, City 66346",0
+COMP_0061,Quantum Enterprises LLC,2009,Engineering,"692 Oak St, Village 72021",0
+COMP_0062,Summit Services Ltd.,2004,Consulting,"680 Central St, Town 22240",0
+COMP_0063,Prime Holdings Inc.,2020,Manufacturing,"151 Main St, City 42092",0
+COMP_0064,Apex Systems LLC,2008,Architecture,"590 Oak St, Village 60328",1
+COMP_0065,Apex Industries Inc.,1999,Architecture,"705 Main St, City 65724",0
+COMP_0066,Prime Services LLC,1996,Consulting,"256 Main St, Town 27477",0
+COMP_0067,Apex Labs corp.,2019,Engineering,"628 Central St, Town 81810",0
+COMP_0068,Apex Services LLC,2009,Transportation,"770 Oak St, Village 46347",1
+COMP_0069,Nexus Ventures Inc.,2003,Engineering,"80 Elm St, City 45614",1
+COMP_0070,Forward Enterprises Ltd.,1999,Healthcare,"237 Park St, Village 30028",1
+COMP_0071,Summit Group Ltd.,2008,Telecommunications,"339 Central St, Town 64496",1
+COMP_0072,Tech Group LLC,2007,Security Services,"969 Main St, Village 59857",1
+COMP_0073,Apex Solutions corp.,2004,Telecommunications,"874 Park St, Village 81582",1
+COMP_0074,Quantum Group LLC,2002,Transportation,"447 Park St, City 60968",0
+COMP_0075,Forward Industries Inc.,2021,Engineering,"942 Oak St, Village 80008",0
+COMP_0076,Tech Industries Ltd.,1997,Architecture,"439 Oak St, Town 33819",0
+COMP_0077,Tech Holdings LLC,2005,Manufacturing,"466 Elm St, Town 59692",1
+COMP_0078,Elite Industries corp.,2021,IT Services,"482 Main St, Village 80702",1
+COMP_0079,Tech Enterprises Inc.,2015,IT Services,"800 Main St, City 42411",0
+COMP_0080,Prime Solutions Inc.,2002,Healthcare,"485 Main St, Village 38569",0
+COMP_0081,Apex Holdings corp.,2000,Security Services,"622 Main St, City 50768",1
+COMP_0082,Global Solutions corp.,2013,Architecture,"930 Park St, Town 35995",0
+COMP_0083,Global Group Ltd.,2017,Transportation,"871 Central St, City 84177",0
+COMP_0084,Tech Enterprises LLC,2016,Energy,"71 Central St, Village 54725",0
+COMP_0085,Tech Industries LLC,1998,Telecommunications,"984 Elm St, Village 70258",1
+COMP_0086,Summit Services LLC,2000,Finance,"535 Elm St, Village 80539",1
+COMP_0087,Apex Ventures LLC,2021,Finance,"607 Elm St, Town 42177",1
+COMP_0088,Global Holdings LLC,2002,Engineering,"584 Central St, Village 59674",0
+COMP_0089,Forward Solutions LLC,2022,Energy,"187 Park St, City 56507",1
+COMP_0090,Elite Enterprises corp.,2023,Security Services,"719 Elm St, Village 11330",0
+COMP_0091,Nexus Group Ltd.,2002,Finance,"417 Park St, Village 41499",0
+COMP_0092,Summit Ventures LLC,2009,Construction,"96 Elm St, City 63005",1
+COMP_0093,Summit Group corp.,2016,Security Services,"378 Park St, Village 79588",1
+COMP_0094,Forward Industries corp.,2006,Finance,"465 Elm St, Town 42951",0
+COMP_0095,Prime Systems Inc.,2005,IT Services,"761 Central St, Village 34267",1
+COMP_0096,Prime Group LLC,2003,Finance,"604 Central St, Village 47093",1
+COMP_0097,Global Group corp.,2002,Energy,"184 Elm St, City 80010",0
+COMP_0098,Smart Holdings Ltd.,1996,Consulting,"300 Oak St, Village 74340",0
+COMP_0099,Global Solutions corp.,2010,Engineering,"452 Elm St, City 16734",0
+COMP_0100,Elite Ventures Ltd.,2021,IT Services,"411 Park St, City 85631",0
+COMP_0101,Venture Solutions Inc.,1999,Security Services,"972 Elm St, City 42530",0
+COMP_0102,Global Labs LLC,2014,Security Services,"810 Central St, City 78494",0
+COMP_0103,Dynamic Ventures LLC,2004,Security Services,"440 Elm St, Village 91399",0
+COMP_0104,Tech Systems Inc.,2015,Manufacturing,"271 Main St, City 41439",0
+COMP_0105,Smart Labs Ltd.,2000,Construction,"419 Park St, Village 87832",0
+COMP_0106,Apex Holdings Ltd.,2002,Transportation,"724 Elm St, Village 69510",0
+COMP_0107,Global Group corp.,2020,Architecture,"604 Oak St, Town 25043",0
+COMP_0108,Nexus Group Inc.,2003,Healthcare,"74 Main St, City 50319",0
+COMP_0109,Quantum Holdings LLC,1998,Engineering,"706 Elm St, Village 62757",0
+COMP_0110,Elite Labs LLC,2009,IT Services,"613 Main St, Town 52247",0
+COMP_0111,Quantum Holdings Ltd.,1997,Manufacturing,"985 Central St, Village 12719",1
+COMP_0112,Venture Holdings Ltd.,2019,Healthcare,"482 Central St, Village 67963",0
+COMP_0113,Elite Services LLC,2015,Engineering,"993 Main St, Town 55607",0
+COMP_0114,Dynamic Enterprises corp.,2016,IT Services,"879 Oak St, Town 63955",1
+COMP_0115,Summit Ventures corp.,2016,Telecommunications,"834 Central St, City 69614",1
+COMP_0116,Global Enterprises corp.,2005,IT Services,"994 Park St, Village 10150",0
+COMP_0117,Venture Labs LLC,2008,Construction,"193 Central St, Town 91609",0
+COMP_0118,Apex Ventures Ltd.,2001,Transportation,"563 Oak St, Town 67424",1
+COMP_0119,Summit Ventures Ltd.,1995,Architecture,"624 Oak St, Village 30758",0
+COMP_0120,Elite Labs Ltd.,2012,Telecommunications,"96 Oak St, City 70482",1
+COMP_0121,Global Services LLC,2017,Transportation,"522 Elm St, Town 73242",1
+COMP_0122,Apex Group LLC,2012,Healthcare,"393 Oak St, Village 76616",0
+COMP_0123,Summit Services Ltd.,2003,Telecommunications,"349 Central St, Town 10336",1
+COMP_0124,Elite Holdings LLC,2022,Healthcare,"458 Central St, Town 55236",1
+COMP_0125,Forward Labs LLC,2009,Energy,"891 Oak St, Village 41300",1
+COMP_0126,Quantum Industries Inc.,2022,Telecommunications,"45 Elm St, Village 71993",0
+COMP_0127,Summit Industries LLC,2016,Architecture,"156 Park St, City 26547",0
+COMP_0128,Nexus Enterprises Ltd.,2022,Engineering,"103 Central St, Town 12011",0
+COMP_0129,Summit Services LLC,2022,Architecture,"994 Oak St, City 71537",1
+COMP_0130,Elite Enterprises LLC,2015,IT Services,"873 Elm St, Village 79942",0
+COMP_0131,Dynamic Enterprises LLC,2022,Consulting,"37 Central St, City 40771",1
+COMP_0132,Venture Holdings Inc.,2018,IT Services,"445 Main St, Village 23173",0
+COMP_0133,Apex Services corp.,2023,Construction,"48 Elm St, City 48452",1
+COMP_0134,Forward Enterprises LLC,1999,Manufacturing,"544 Park St, Village 99364",0
+COMP_0135,Smart Services Inc.,1997,Security Services,"892 Park St, Village 99539",0
+COMP_0136,Prime Ventures Inc.,2002,Engineering,"654 Elm St, Town 43466",1
+COMP_0137,Venture Solutions LLC,2023,Transportation,"694 Central St, City 19681",1
+COMP_0138,Apex Enterprises corp.,2015,Telecommunications,"707 Elm St, Town 49599",1
+COMP_0139,Prime Industries LLC,1998,Manufacturing,"391 Central St, Town 85341",0
+COMP_0140,Elite Holdings Ltd.,2021,Architecture,"406 Elm St, City 84177",1
+COMP_0141,Venture Solutions LLC,2021,Transportation,"795 Oak St, Village 56179",0
+COMP_0142,Prime Group corp.,2016,Finance,"786 Oak St, Village 22735",1
+COMP_0143,Venture Solutions corp.,2020,Engineering,"35 Central St, Town 27224",1
+COMP_0144,Global Holdings corp.,2018,Telecommunications,"9 Dummy Street, Shell City 00000",1
+COMP_0145,Forward Labs corp.,2021,Healthcare,"264 Park St, Town 54396",0
+COMP_0146,Global Ventures Ltd.,1999,Manufacturing,"881 Park St, Village 57942",1
+COMP_0147,Global Industries Ltd.,2003,Consulting,"127 Park St, Town 98188",1
+COMP_0148,Summit Holdings LLC,2021,Architecture,"963 Elm St, City 98452",1
+COMP_0149,Prime Ventures Ltd.,2014,Consulting,"336 Central St, City 94889",1
+COMP_0150,Global Ventures corp.,2015,Telecommunications,"120 Oak St, City 14877",1
+COMP_0151,Elite Ventures Ltd.,1998,Manufacturing,"909 Central St, City 60940",0
+COMP_0152,Apex Enterprises LLC,2013,Finance,"745 Oak St, Town 95841",0
+COMP_0153,Global Ventures LLC,2003,Construction,"707 Elm St, City 68115",0
+COMP_0154,Apex Group corp.,1998,Architecture,"377 Central St, Village 57012",0
+COMP_0155,Tech Industries corp.,2001,IT Services,"972 Park St, City 96870",1
+COMP_0156,Prime Solutions Ltd.,2020,Energy,"250 Oak St, Village 36896",0
+COMP_0157,Global Labs Inc.,2013,Manufacturing,"833 Oak St, Town 29340",0
+COMP_0158,Quantum Solutions corp.,2022,Healthcare,"134 Central St, Town 32871",1
+COMP_0159,Global Solutions Inc.,1995,Energy,"809 Oak St, Village 52437",1
+COMP_0160,Tech Services corp.,1996,Healthcare,"760 Park St, Village 24896",0
+COMP_0161,Summit Systems LLC,2009,Energy,"526 Central St, City 69245",0
+COMP_0162,Nexus Group Ltd.,2018,Architecture,"4 Dummy Street, Shell City 00000",1
+COMP_0163,Tech Solutions LLC,2022,Telecommunications,"437 Main St, Town 68138",0
+COMP_0164,Global Systems corp.,2014,Healthcare,"68 Oak St, Town 91830",0
+COMP_0165,Venture Labs corp.,2007,Security Services,"544 Elm St, Town 76263",0
+COMP_0166,Quantum Industries Ltd.,2020,Finance,"118 Central St, Village 38183",1
+COMP_0167,Dynamic Ventures Inc.,2008,Energy,"848 Park St, Town 64524",0
+COMP_0168,Summit Systems corp.,2008,Energy,"682 Elm St, Town 30006",0
+COMP_0169,Venture Ventures Ltd.,1997,IT Services,"96 Park St, City 58843",1
+COMP_0170,Smart Labs Ltd.,2013,Consulting,"576 Elm St, Village 26021",0
+COMP_0171,Dynamic Enterprises LLC,2022,Finance,"53 Elm St, Village 50953",0
+COMP_0172,Forward Systems Inc.,1999,Architecture,"494 Oak St, City 55890",1
+COMP_0173,Nexus Enterprises Ltd.,2019,Transportation,"588 Oak St, Town 83526",0
+COMP_0174,Quantum Labs Ltd.,2014,Architecture,"850 Elm St, City 33647",0
+COMP_0175,Elite Holdings corp.,2006,Construction,"186 Oak St, Village 96159",1
+COMP_0176,Dynamic Systems Inc.,2018,Architecture,"996 Main St, City 79531",0
+COMP_0177,Prime Industries LLC,2009,Energy,"162 Elm St, Town 52517",0
+COMP_0178,Quantum Systems Ltd.,1999,Healthcare,"773 Central St, City 98338",1
+COMP_0179,Global Holdings LLC,2016,Telecommunications,"498 Central St, Town 64287",0
+COMP_0180,Elite Group Ltd.,2006,Telecommunications,"114 Elm St, Village 98930",1
+COMP_0181,Quantum Ventures corp.,1996,Manufacturing,"405 Central St, City 11007",1
+COMP_0182,Prime Holdings Inc.,2019,Healthcare,"783 Elm St, Town 53007",0
+COMP_0183,Global Solutions LLC,2018,Telecommunications,"9 Dummy Street, Shell City 00000",1
+COMP_0184,Summit Group corp.,1997,Telecommunications,"883 Main St, Town 12456",1
+COMP_0185,Apex Systems corp.,2013,Telecommunications,"588 Park St, Village 93904",0
+COMP_0186,Dynamic Holdings Ltd.,2007,Construction,"990 Elm St, City 91018",1
+COMP_0187,Apex Enterprises Ltd.,2008,IT Services,"250 Park St, Village 62487",1
+COMP_0188,Nexus Systems LLC,2022,Transportation,"764 Elm St, City 53655",1
+COMP_0189,Smart Systems Ltd.,2019,Consulting,"5 Dummy Street, Shell City 00000",1
+COMP_0190,Smart Group Ltd.,1999,Transportation,"203 Oak St, Village 30036",0
+COMP_0191,Venture Systems Inc.,2019,Architecture,"506 Park St, Village 85952",0
+COMP_0192,Apex Enterprises corp.,1999,Engineering,"70 Park St, Town 92756",0
+COMP_0193,Elite Holdings Ltd.,2006,Consulting,"76 Elm St, Town 69233",0
+COMP_0194,Tech Solutions corp.,2021,Transportation,"79 Main St, Village 87867",0
+COMP_0195,Nexus Industries LLC,2013,Consulting,"978 Main St, Town 84928",0
+COMP_0196,Venture Group corp.,2014,Engineering,"514 Oak St, City 69050",1
+COMP_0197,Global Enterprises Ltd.,2011,Architecture,"177 Main St, City 67377",0
+COMP_0198,Apex Labs Inc.,2006,Energy,"940 Elm St, Town 63578",0
+COMP_0199,Forward Solutions corp.,1997,Energy,"97 Central St, Village 60667",0
+COMP_0200,Elite Holdings Inc.,2005,IT Services,"597 Oak St, Town 50662",1
+COMP_0201,Venture Industries Inc.,2018,Finance,"4 Dummy Street, Shell City 00000",1
+COMP_0202,Dynamic Enterprises Inc.,2016,Finance,"849 Central St, City 94675",0
+COMP_0203,Venture Industries corp.,1995,Energy,"317 Oak St, City 54791",0
+COMP_0204,Apex Group Inc.,1999,Healthcare,"80 Elm St, City 76543",0
+COMP_0205,Nexus Labs Ltd.,2016,Energy,"898 Central St, City 88282",0
+COMP_0206,Dynamic Services Inc.,2021,Finance,"6 Dummy Street, Shell City 00000",1
+COMP_0207,Tech Industries corp.,2016,Finance,"244 Park St, Village 47346",0
+COMP_0208,Summit Ventures Inc.,2012,Manufacturing,"317 Park St, City 58213",0
+COMP_0209,Venture Ventures LLC,2019,Transportation,"797 Park St, Village 79135",0
+COMP_0210,Dynamic Services Inc.,2020,Security Services,"142 Elm St, City 94040",1
+COMP_0211,Apex Enterprises Ltd.,2017,Consulting,"872 Main St, Town 20993",0
+COMP_0212,Smart Holdings LLC,2023,Consulting,"151 Park St, City 39102",1
+COMP_0213,Apex Enterprises Ltd.,2008,Construction,"406 Central St, Town 40903",1
+COMP_0214,Dynamic Systems corp.,2002,Construction,"327 Main St, Village 95191",0
+COMP_0215,Forward Services Inc.,1996,Transportation,"940 Park St, Village 28191",1
+COMP_0216,Summit Ventures LLC,2014,Construction,"928 Main St, City 43544",0
+COMP_0217,Prime Services LLC,1998,Transportation,"244 Elm St, City 16258",1
+COMP_0218,Prime Industries LLC,1997,IT Services,"857 Park St, Village 80261",0
+COMP_0219,Tech Labs Inc.,2017,Healthcare,"299 Park St, City 90584",0
+COMP_0220,Forward Group LLC,2000,Architecture,"685 Main St, Village 57265",0
+COMP_0221,Global Labs Ltd.,2018,Engineering,"4 Dummy Street, Shell City 00000",1
+COMP_0222,Summit Solutions corp.,2020,IT Services,"354 Oak St, Village 96127",0
+COMP_0223,Venture Systems corp.,1999,Construction,"361 Central St, Town 94252",1
+COMP_0224,Smart Ventures LLC,2015,Healthcare,"831 Oak St, City 69988",0
+COMP_0225,Tech Holdings Inc.,1996,Manufacturing,"908 Main St, Town 50642",0
+COMP_0226,Nexus Industries LLC,2003,Construction,"772 Oak St, Town 56789",0
+COMP_0227,Tech Enterprises corp.,1998,Energy,"448 Park St, Village 67637",0
+COMP_0228,Dynamic Enterprises Inc.,2010,Finance,"510 Elm St, Village 44959",1
+COMP_0229,Global Industries Ltd.,2008,Security Services,"843 Oak St, Village 48504",0
+COMP_0230,Forward Systems Ltd.,2005,Architecture,"303 Elm St, Town 88986",1
+COMP_0231,Summit Industries Inc.,2017,Engineering,"360 Park St, City 56210",0
+COMP_0232,Quantum Industries corp.,2015,Construction,"77 Park St, Town 77251",1
+COMP_0233,Summit Services Ltd.,1999,Security Services,"695 Park St, City 26545",1
+COMP_0234,Global Group corp.,2006,Telecommunications,"973 Central St, City 89310",0
+COMP_0235,Smart Ventures corp.,2006,Engineering,"782 Main St, Village 28047",0
+COMP_0236,Nexus Enterprises LLC,2005,Architecture,"286 Oak St, City 13396",1
+COMP_0237,Summit Services LLC,2011,Telecommunications,"936 Central St, City 44311",1
+COMP_0238,Elite Ventures Inc.,2014,Transportation,"711 Park St, City 26074",1
+COMP_0239,Smart Systems LLC,2000,Finance,"456 Main St, Village 51889",0
+COMP_0240,Venture Enterprises Ltd.,2012,Consulting,"298 Elm St, City 93584",1
+COMP_0241,Smart Enterprises Inc.,1998,Manufacturing,"812 Oak St, City 74752",1
+COMP_0242,Tech Enterprises corp.,2009,Consulting,"133 Central St, City 18617",1
+COMP_0243,Elite Industries LLC,2011,Telecommunications,"788 Park St, Village 19666",1
+COMP_0244,Smart Enterprises Ltd.,2009,Engineering,"697 Central St, Town 26821",0
+COMP_0245,Nexus Services Inc.,2008,Consulting,"933 Main St, City 77908",1
+COMP_0246,Smart Holdings Inc.,2000,Energy,"958 Oak St, Town 78012",1
+COMP_0247,Elite Systems corp.,2001,Architecture,"980 Central St, Town 26406",1
+COMP_0248,Venture Holdings Ltd.,2011,Architecture,"173 Central St, Village 30210",1
+COMP_0249,Smart Enterprises Ltd.,2021,Construction,"84 Main St, Village 85598",1
+COMP_0250,Elite Group LLC,2014,Architecture,"32 Park St, Village 81509",0
+COMP_0251,Elite Holdings LLC,2002,Architecture,"416 Elm St, Town 19564",0
+COMP_0252,Summit Solutions Inc.,2009,Telecommunications,"496 Park St, City 54589",0
+COMP_0253,Quantum Services corp.,2022,Finance,"327 Elm St, Town 27139",0
+COMP_0254,Forward Labs Ltd.,2005,Manufacturing,"478 Main St, Town 68929",0
+COMP_0255,Prime Services Ltd.,1996,Transportation,"969 Park St, Village 64805",1
+COMP_0256,Prime Services corp.,2013,Finance,"321 Oak St, City 75308",1
+COMP_0257,Nexus Ventures LLC,2023,Transportation,"510 Main St, City 61543",0
+COMP_0258,Nexus Ventures Inc.,2001,Security Services,"362 Main St, City 46877",1
+COMP_0259,Apex Ventures corp.,2012,Construction,"868 Main St, Town 27555",0
+COMP_0260,Elite Enterprises LLC,2006,Construction,"411 Main St, Village 83638",1
+COMP_0261,Prime Enterprises corp.,2021,Telecommunications,"6 Dummy Street, Shell City 00000",1
+COMP_0262,Quantum Systems Inc.,1998,Telecommunications,"383 Elm St, Village 57920",1
+COMP_0263,Smart Group LLC,2011,Construction,"47 Main St, City 53652",0
+COMP_0264,Apex Labs LLC,1999,Security Services,"915 Central St, City 52987",0
+COMP_0265,Quantum Enterprises Inc.,2007,Security Services,"758 Elm St, Village 54089",0
+COMP_0266,Nexus Labs LLC,2017,Security Services,"307 Park St, City 58281",1
+COMP_0267,Forward Systems LLC,2013,Transportation,"816 Main St, Village 72205",1
+COMP_0268,Elite Group Ltd.,2013,Engineering,"175 Central St, Village 91230",0
+COMP_0269,Dynamic Services Inc.,1996,Security Services,"971 Main St, City 12482",1
+COMP_0270,Apex Enterprises LLC,1999,Telecommunications,"708 Oak St, Town 75774",0
+COMP_0271,Quantum Ventures Ltd.,2017,Healthcare,"532 Oak St, Village 52604",0
+COMP_0272,Venture Ventures LLC,2005,Healthcare,"471 Central St, Town 81601",0
+COMP_0273,Forward Holdings LLC,2001,Manufacturing,"286 Central St, Town 39473",0
+COMP_0274,Elite Holdings Inc.,2017,Finance,"501 Elm St, Town 55718",0
+COMP_0275,Nexus Holdings corp.,1998,Security Services,"693 Central St, Town 61712",0
+COMP_0276,Forward Services corp.,1996,Transportation,"979 Main St, Town 67983",1
+COMP_0277,Venture Holdings LLC,2001,Manufacturing,"848 Central St, Town 83664",0
+COMP_0278,Summit Holdings Inc.,1998,Security Services,"759 Central St, City 41779",0
+COMP_0279,Tech Labs Inc.,2015,Manufacturing,"54 Main St, Town 53292",0
+COMP_0280,Summit Ventures Ltd.,2016,Healthcare,"6 Central St, City 63334",1
+COMP_0281,Venture Ventures LLC,2019,Manufacturing,"5 Dummy Street, Shell City 00000",1
+COMP_0282,Venture Solutions Ltd.,2015,Security Services,"238 Central St, Village 14888",1
+COMP_0283,Smart Industries Inc.,1996,Telecommunications,"807 Park St, City 47941",0
+COMP_0284,Tech Solutions corp.,2013,Security Services,"110 Elm St, Town 69552",1
+COMP_0285,Venture Labs LLC,2023,Healthcare,"872 Central St, Town 45761",0
+COMP_0286,Prime Systems corp.,2000,Finance,"470 Elm St, Village 34405",0
+COMP_0287,Tech Enterprises corp.,2013,Architecture,"776 Oak St, City 90079",0
+COMP_0288,Venture Industries LLC,2011,Energy,"89 Park St, Village 22502",0
+COMP_0289,Smart Services LLC,2005,Manufacturing,"7 Elm St, Town 40870",0
+COMP_0290,Apex Holdings corp.,2004,Security Services,"741 Central St, City 44282",1
+COMP_0291,Venture Enterprises Inc.,1996,Architecture,"122 Park St, Town 30934",0
+COMP_0292,Dynamic Labs corp.,2017,IT Services,"655 Elm St, Town 90560",0
+COMP_0293,Prime Group Inc.,2010,Healthcare,"466 Central St, Town 64505",1
+COMP_0294,Summit Labs LLC,2019,Consulting,"822 Oak St, City 99173",0
+COMP_0295,Quantum Systems LLC,2011,Finance,"371 Main St, Village 24707",1
+COMP_0296,Tech Labs Inc.,2013,Consulting,"154 Oak St, Town 78202",1
+COMP_0297,Apex Systems Inc.,2017,Security Services,"501 Main St, Village 68390",1
+COMP_0298,Tech Ventures Inc.,2021,Telecommunications,"6 Dummy Street, Shell City 00000",1
+COMP_0299,Apex Holdings Ltd.,2007,Transportation,"837 Main St, Village 38560",0
+COMP_0300,Quantum Systems Ltd.,2008,Energy,"718 Main St, Village 17897",0
+COMP_0301,Global Ventures Ltd.,2004,Telecommunications,"185 Oak St, Village 94656",0
+COMP_0302,Dynamic Enterprises LLC,2018,Telecommunications,"4 Dummy Street, Shell City 00000",1
+COMP_0303,Nexus Services corp.,1998,Healthcare,"551 Park St, Village 26691",1
+COMP_0304,Summit Group Ltd.,2019,Construction,"306 Park St, Village 81361",0
+COMP_0305,Dynamic Labs LLC,2021,Manufacturing,"254 Park St, Town 30332",1
+COMP_0306,Elite Group Ltd.,1996,Architecture,"430 Central St, City 41544",0
+COMP_0307,Prime Systems Ltd.,2014,Construction,"458 Central St, Village 16380",0
+COMP_0308,Prime Solutions LLC,2009,Manufacturing,"553 Oak St, City 28367",0
+COMP_0309,Nexus Holdings Inc.,2021,Finance,"590 Elm St, Village 88370",1
+COMP_0310,Venture Enterprises Inc.,2004,Healthcare,"677 Central St, City 64206",0
+COMP_0311,Elite Holdings Ltd.,2012,Security Services,"901 Oak St, Village 98965",0
+COMP_0312,Dynamic Labs LLC,1996,Energy,"965 Park St, Village 51777",1
+COMP_0313,Summit Industries LLC,2021,Transportation,"6 Dummy Street, Shell City 00000",1
+COMP_0314,Prime Group corp.,2022,Finance,"148 Park St, City 83713",0
+COMP_0315,Dynamic Industries Inc.,2007,Manufacturing,"262 Oak St, Town 94765",1
+COMP_0316,Global Ventures corp.,1997,Consulting,"742 Oak St, City 45187",0
+COMP_0317,Dynamic Solutions Ltd.,2001,Security Services,"742 Central St, City 72835",1
+COMP_0318,Prime Enterprises corp.,1995,Manufacturing,"960 Oak St, Village 25376",0
+COMP_0319,Summit Ventures Inc.,2017,Security Services,"721 Oak St, Town 41369",1
+COMP_0320,Nexus Enterprises corp.,2018,Engineering,"4 Dummy Street, Shell City 00000",1
+COMP_0321,Forward Labs LLC,2009,IT Services,"823 Park St, Town 36624",0
+COMP_0322,Forward Enterprises LLC,1996,Security Services,"885 Oak St, Village 29126",1
+COMP_0323,Tech Holdings LLC,2004,Healthcare,"201 Elm St, City 59786",0
+COMP_0324,Quantum Group LLC,2012,Architecture,"967 Elm St, Town 74044",1
+COMP_0325,Summit Ventures LLC,2000,Finance,"815 Elm St, City 28344",0
+COMP_0326,Summit Labs LLC,2000,Consulting,"658 Main St, Village 14433",0
+COMP_0327,Global Solutions Ltd.,2008,Healthcare,"863 Oak St, City 29795",0
+COMP_0328,Tech Group LLC,2006,Construction,"633 Central St, Town 96413",1
+COMP_0329,Apex Solutions Ltd.,2012,Consulting,"422 Main St, City 79391",0
+COMP_0330,Summit Holdings corp.,1995,Consulting,"833 Park St, City 24026",0
+COMP_0331,Global Labs Inc.,2002,Manufacturing,"635 Central St, Town 56457",1
+COMP_0332,Elite Industries Ltd.,2006,Telecommunications,"471 Central St, City 39603",0
+COMP_0333,Elite Systems Ltd.,1997,Telecommunications,"389 Park St, Village 72390",0
+COMP_0334,Tech Solutions Inc.,1997,Engineering,"866 Park St, Village 53420",0
+COMP_0335,Quantum Systems Ltd.,2002,Manufacturing,"923 Central St, Town 45532",0
+COMP_0336,Tech Systems corp.,2023,Consulting,"578 Main St, City 51220",1
+COMP_0337,Tech Group Inc.,2019,Finance,"841 Park St, City 49226",1
+COMP_0338,Smart Group LLC,2016,Consulting,"340 Park St, Village 28343",0
+COMP_0339,Summit Systems corp.,1996,IT Services,"448 Oak St, City 54642",1
+COMP_0340,Quantum Industries corp.,1995,Architecture,"280 Park St, Town 39902",0
+COMP_0341,Forward Labs LLC,2008,Healthcare,"697 Central St, Village 59816",0
+COMP_0342,Global Holdings Inc.,2017,IT Services,"85 Elm St, City 59807",1
+COMP_0343,Summit Services LLC,2005,Energy,"110 Main St, City 50405",1
+COMP_0344,Apex Enterprises corp.,1998,Healthcare,"90 Oak St, Town 68830",0
+COMP_0345,Nexus Labs LLC,1998,Construction,"92 Elm St, Village 22198",1
+COMP_0346,Quantum Enterprises LLC,1995,Transportation,"424 Park St, City 83339",1
+COMP_0347,Prime Labs Inc.,2016,Telecommunications,"174 Oak St, Town 49469",0
+COMP_0348,Elite Ventures Inc.,1997,Healthcare,"446 Elm St, Town 49289",0
+COMP_0349,Apex Systems corp.,2003,Manufacturing,"739 Park St, Village 90828",0
+COMP_0350,Prime Ventures Ltd.,1999,Transportation,"7 Park St, Town 91289",1
+COMP_0351,Dynamic Enterprises LLC,2005,Telecommunications,"836 Central St, City 49378",0
+COMP_0352,Forward Group LLC,2005,Healthcare,"988 Park St, Town 48200",0
+COMP_0353,Summit Ventures Inc.,2005,Telecommunications,"288 Park St, Town 24927",1
+COMP_0354,Quantum Group Inc.,2016,Consulting,"28 Park St, Village 37479",0
+COMP_0355,Apex Holdings Ltd.,2021,Telecommunications,"690 Park St, City 93012",1
+COMP_0356,Elite Group corp.,2016,Healthcare,"733 Park St, Town 19694",0
+COMP_0357,Apex Ventures LLC,2012,Consulting,"946 Park St, Village 14818",0
+COMP_0358,Forward Labs Ltd.,1998,Manufacturing,"674 Elm St, City 94803",1
+COMP_0359,Quantum Solutions LLC,2018,Energy,"4 Dummy Street, Shell City 00000",1
+COMP_0360,Global Holdings Inc.,2011,Finance,"532 Central St, Village 85397",1
+COMP_0361,Prime Ventures corp.,2007,Engineering,"791 Central St, Village 75597",0
+COMP_0362,Smart Enterprises Ltd.,2010,IT Services,"303 Park St, City 25213",0
+COMP_0363,Summit Services corp.,2004,Energy,"467 Oak St, Village 73298",0
+COMP_0364,Forward Ventures Ltd.,2009,Finance,"714 Park St, Town 18804",1
+COMP_0365,Elite Solutions Ltd.,1995,Energy,"664 Main St, Village 31542",0
+COMP_0366,Summit Group Inc.,2012,Healthcare,"339 Central St, Town 70562",0
+COMP_0367,Prime Industries Inc.,2000,Architecture,"674 Park St, Town 13826",0
+COMP_0368,Summit Group LLC,2013,Telecommunications,"399 Main St, Village 38153",0
+COMP_0369,Prime Holdings Ltd.,2013,IT Services,"819 Central St, City 57945",1
+COMP_0370,Forward Group LLC,1998,Transportation,"687 Park St, Village 93769",0
+COMP_0371,Forward Industries LLC,2013,IT Services,"357 Elm St, Town 90918",0
+COMP_0372,Smart Holdings Ltd.,2016,Healthcare,"321 Main St, City 50026",1
+COMP_0373,Global Services corp.,2017,Healthcare,"524 Park St, Town 88174",1
+COMP_0374,Smart Industries LLC,2000,Engineering,"651 Central St, Village 94575",1
+COMP_0375,Smart Labs Inc.,2010,Transportation,"144 Oak St, Town 69113",1
+COMP_0376,Quantum Solutions corp.,1995,Engineering,"140 Oak St, Town 83607",0
+COMP_0377,Nexus Ventures LLC,2016,Engineering,"426 Park St, Town 31922",1
+COMP_0378,Global Solutions Inc.,2004,Construction,"282 Oak St, Village 47836",1
+COMP_0379,Smart Ventures LLC,2012,Consulting,"116 Central St, City 45112",1
+COMP_0380,Nexus Enterprises Ltd.,2019,Finance,"452 Central St, City 65725",0
+COMP_0381,Global Group corp.,2022,Construction,"461 Elm St, Town 21401",0
+COMP_0382,Apex Systems Inc.,2001,Finance,"603 Elm St, Village 89988",0
+COMP_0383,Venture Industries Inc.,2014,Healthcare,"804 Oak St, City 17780",1
+COMP_0384,Quantum Enterprises corp.,2014,Consulting,"173 Elm St, Village 48356",1
+COMP_0385,Elite Holdings Ltd.,1999,Telecommunications,"941 Main St, Town 95969",0
+COMP_0386,Smart Services Inc.,1999,Finance,"330 Oak St, Village 61472",1
+COMP_0387,Apex Services corp.,2015,Telecommunications,"385 Park St, City 93050",0
+COMP_0388,Global Industries corp.,2017,Energy,"466 Park St, Town 86278",0
+COMP_0389,Tech Systems LLC,2015,Architecture,"715 Elm St, City 80048",0
+COMP_0390,Dynamic Group LLC,2021,Manufacturing,"507 Elm St, Town 47171",0
+COMP_0391,Forward Labs Inc.,2013,Engineering,"808 Elm St, Village 16345",0
+COMP_0392,Tech Systems LLC,1995,IT Services,"952 Oak St, Town 69836",0
+COMP_0393,Tech Industries Inc.,2017,Healthcare,"904 Elm St, City 45916",1
+COMP_0394,Global Enterprises corp.,1997,Energy,"681 Oak St, City 61949",0
+COMP_0395,Venture Holdings Inc.,2008,Architecture,"94 Main St, City 37973",1
+COMP_0396,Apex Systems Inc.,2013,Manufacturing,"532 Park St, City 11056",0
+COMP_0397,Summit Enterprises Ltd.,2022,Telecommunications,"711 Oak St, Town 19283",0
+COMP_0398,Prime Industries Ltd.,2018,IT Services,"106 Elm St, Town 49223",1
+COMP_0399,Smart Industries Inc.,2015,Architecture,"147 Main St, Village 83831",0
+COMP_0400,Tech Services LLC,2006,Finance,"219 Oak St, Town 90750",1
+COMP_0401,Venture Ventures Inc.,1997,IT Services,"144 Main St, Village 60335",1
+COMP_0402,Forward Industries corp.,2020,Healthcare,"254 Elm St, Village 21042",0
+COMP_0403,Prime Labs corp.,2019,Finance,"28 Elm St, City 77862",1
+COMP_0404,Quantum Labs Inc.,2018,Telecommunications,"303 Main St, City 74865",0
+COMP_0405,Dynamic Systems Inc.,2010,Architecture,"609 Main St, Village 11581",0
+COMP_0406,Forward Enterprises Inc.,2007,Security Services,"431 Elm St, Village 99514",0
+COMP_0407,Smart Ventures Ltd.,1995,Security Services,"70 Main St, Town 38277",0
+COMP_0408,Tech Solutions LLC,2011,Transportation,"644 Central St, Town 65518",1
+COMP_0409,Summit Industries Ltd.,2015,Consulting,"551 Central St, City 46368",0
+COMP_0410,Global Holdings Ltd.,2011,Manufacturing,"998 Oak St, Village 52827",1
+COMP_0411,Dynamic Systems corp.,2017,Telecommunications,"748 Oak St, City 42044",0
+COMP_0412,Global Industries Ltd.,2009,Security Services,"624 Main St, Town 97304",1
+COMP_0413,Summit Services Ltd.,1995,Finance,"141 Main St, City 75065",0
+COMP_0414,Forward Labs corp.,2000,Energy,"130 Elm St, Village 25473",1
+COMP_0415,Tech Enterprises LLC,2003,Consulting,"66 Elm St, Village 85582",0
+COMP_0416,Venture Systems LLC,2009,Consulting,"369 Main St, Town 84302",0
+COMP_0417,Smart Enterprises Inc.,2003,IT Services,"916 Central St, Village 25117",0
+COMP_0418,Prime Labs Ltd.,1996,Construction,"251 Main St, Town 57707",1
+COMP_0419,Dynamic Services Inc.,2022,Construction,"567 Park St, City 52179",1
+COMP_0420,Prime Industries corp.,2018,IT Services,"9 Dummy Street, Shell City 00000",1
+COMP_0421,Venture Solutions Inc.,2002,Consulting,"48 Park St, City 70960",0
+COMP_0422,Elite Holdings corp.,1997,Consulting,"468 Main St, Town 36302",0
+COMP_0423,Elite Holdings Inc.,2009,Energy,"606 Park St, City 81638",0
+COMP_0424,Prime Services Ltd.,2008,Construction,"239 Central St, Town 93354",0
+COMP_0425,Summit Solutions corp.,1995,Architecture,"386 Elm St, City 36895",0
+COMP_0426,Nexus Group LLC,2010,Construction,"996 Oak St, Village 46677",0
+COMP_0427,Global Solutions Inc.,2023,Consulting,"423 Elm St, Town 21128",0
+COMP_0428,Quantum Systems Inc.,2015,Telecommunications,"77 Central St, Village 18163",1
+COMP_0429,Dynamic Services Inc.,2004,Transportation,"872 Elm St, Town 52762",0
+COMP_0430,Forward Ventures corp.,2002,IT Services,"967 Oak St, City 86638",1
+COMP_0431,Global Services Ltd.,2000,Engineering,"478 Elm St, Town 25825",1
+COMP_0432,Nexus Enterprises Inc.,2009,Transportation,"475 Elm St, City 21851",0
+COMP_0433,Smart Holdings Ltd.,2001,Energy,"152 Main St, Village 42534",1
+COMP_0434,Forward Industries Ltd.,2016,Transportation,"267 Oak St, City 63004",0
+COMP_0435,Apex Labs Inc.,1998,Engineering,"105 Oak St, City 11567",1
+COMP_0436,Tech Group Inc.,2001,Telecommunications,"382 Main St, Village 86823",0
+COMP_0437,Elite Systems Ltd.,1997,Manufacturing,"925 Park St, City 22055",0
+COMP_0438,Forward Systems Ltd.,2009,Construction,"173 Central St, Town 61773",0
+COMP_0439,Apex Solutions LLC,2016,Telecommunications,"177 Elm St, City 34530",1
+COMP_0440,Elite Holdings LLC,2018,Healthcare,"9 Dummy Street, Shell City 00000",1
+COMP_0441,Prime Holdings LLC,2008,Consulting,"491 Main St, City 46670",0
+COMP_0442,Dynamic Services LLC,2001,Architecture,"906 Central St, City 92674",0
+COMP_0443,Nexus Solutions LLC,2018,Finance,"9 Dummy Street, Shell City 00000",1
+COMP_0444,Forward Labs corp.,2007,Transportation,"185 Main St, Town 88265",0
+COMP_0445,Prime Solutions corp.,1996,Engineering,"543 Elm St, Village 40508",0
+COMP_0446,Smart Systems Inc.,2016,Manufacturing,"273 Central St, Village 17328",1
+COMP_0447,Prime Industries corp.,2021,Healthcare,"181 Oak St, Village 51681",0
+COMP_0448,Summit Enterprises Ltd.,2017,Finance,"361 Central St, Village 28625",0
+COMP_0449,Quantum Group LLC,2012,Transportation,"180 Park St, City 21830",0
+COMP_0450,Tech Group Inc.,1995,Consulting,"490 Main St, Town 90495",0
+COMP_0451,Prime Services corp.,2017,Healthcare,"941 Elm St, City 12872",1
+COMP_0452,Smart Services Ltd.,2022,Consulting,"882 Elm St, City 58967",0
+COMP_0453,Summit Industries Ltd.,2005,Transportation,"331 Oak St, City 67261",1
+COMP_0454,Venture Ventures corp.,2000,Finance,"992 Central St, Village 90440",1
+COMP_0455,Forward Group Inc.,2007,Transportation,"752 Elm St, City 33292",1
+COMP_0456,Summit Solutions LLC,2022,Security Services,"34 Oak St, Village 51709",0
+COMP_0457,Quantum Group Ltd.,2010,Healthcare,"340 Main St, City 55457",0
+COMP_0458,Forward Services Ltd.,2021,Finance,"687 Elm St, Town 11493",0
+COMP_0459,Elite Group Inc.,2017,IT Services,"359 Elm St, City 10167",0
+COMP_0460,Tech Industries LLC,2018,Telecommunications,"993 Oak St, Town 74629",0
+COMP_0461,Dynamic Enterprises LLC,2019,Engineering,"5 Dummy Street, Shell City 00000",1
+COMP_0462,Smart Ventures Ltd.,2020,Construction,"302 Main St, Town 44226",1
+COMP_0463,Global Systems corp.,2000,Telecommunications,"165 Main St, Village 22203",1
+COMP_0464,Forward Ventures Ltd.,2008,Architecture,"169 Central St, Town 30591",0
+COMP_0465,Tech Systems corp.,2001,Manufacturing,"420 Central St, Village 80795",1
+COMP_0466,Elite Holdings corp.,2002,IT Services,"51 Park St, Village 82045",0
+COMP_0467,Apex Services Ltd.,2006,Construction,"438 Main St, Town 96772",1
+COMP_0468,Venture Ventures Inc.,1998,Construction,"212 Oak St, Village 48248",0
+COMP_0469,Global Ventures Ltd.,2004,Telecommunications,"483 Park St, Village 44734",0
+COMP_0470,Global Labs LLC,2000,Energy,"907 Park St, Town 34455",0
+COMP_0471,Apex Solutions corp.,2009,Engineering,"270 Oak St, Town 83956",0
+COMP_0472,Tech Services Ltd.,1997,Architecture,"353 Central St, Town 87296",1
+COMP_0473,Prime Labs Ltd.,2021,Telecommunications,"839 Central St, Town 80190",1
+COMP_0474,Venture Ventures Inc.,2010,Transportation,"81 Park St, Village 14551",0
+COMP_0475,Nexus Labs Inc.,1998,Engineering,"178 Oak St, City 35260",0
+COMP_0476,Smart Solutions LLC,1997,Architecture,"446 Oak St, Village 29382",1
+COMP_0477,Quantum Holdings corp.,2018,IT Services,"90 Park St, Village 62082",0
+COMP_0478,Nexus Enterprises corp.,2011,Engineering,"940 Main St, Village 91665",0
+COMP_0479,Quantum Labs LLC,1998,Telecommunications,"154 Oak St, Village 87061",0
+COMP_0480,Quantum Systems Ltd.,2013,IT Services,"805 Elm St, Village 55071",0
+COMP_0481,Dynamic Holdings LLC,2015,Engineering,"586 Central St, Town 14910",0
+COMP_0482,Smart Holdings LLC,1999,Security Services,"624 Park St, City 61877",0
+COMP_0483,Forward Group Ltd.,2018,Engineering,"943 Elm St, Town 12651",0
+COMP_0484,Forward Holdings corp.,2003,Engineering,"879 Main St, City 27614",0
+COMP_0485,Elite Ventures corp.,2003,Finance,"427 Central St, Village 21703",1
+COMP_0486,Prime Ventures Inc.,2021,Telecommunications,"759 Park St, Village 59009",0
+COMP_0487,Tech Labs Inc.,1997,Transportation,"727 Central St, Town 27779",0
+COMP_0488,Nexus Solutions Inc.,2001,Manufacturing,"858 Main St, City 14334",0
+COMP_0489,Apex Solutions corp.,2017,Manufacturing,"281 Elm St, Town 76207",0
+COMP_0490,Dynamic Systems Ltd.,2002,Energy,"501 Central St, Town 33276",0
+COMP_0491,Apex Labs corp.,2006,Healthcare,"858 Elm St, Village 21847",1
+COMP_0492,Elite Solutions LLC,1996,Healthcare,"875 Central St, City 39012",1
+COMP_0493,Venture Group Inc.,2003,Architecture,"420 Central St, City 99417",0
+COMP_0494,Tech Ventures Inc.,2015,Healthcare,"616 Main St, City 43081",0
+COMP_0495,Quantum Holdings corp.,2019,Telecommunications,"5 Dummy Street, Shell City 00000",1
+COMP_0496,Prime Ventures corp.,2016,Consulting,"845 Central St, Town 86609",0
+COMP_0497,Global Solutions corp.,2012,Architecture,"609 Central St, Town 49121",0
+COMP_0498,Venture Systems LLC,1997,Energy,"284 Elm St, Town 44229",1
+COMP_0499,Venture Holdings Inc.,1999,Consulting,"784 Oak St, City 88647",1
