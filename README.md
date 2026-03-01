@@ -1,5 +1,8 @@
 # NetraAI - Government-Grade Investigative Intelligence Platform
 
+Note: First load may take 30 seconds (free tier limitation). 
+Please wait - subsequent loads are instant!
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg)](https://fastapi.tiangolo.com/)

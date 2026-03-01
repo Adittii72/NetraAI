@@ -84,6 +84,12 @@ async def shutdown_event():
     if neo4j_connector:
         neo4j_connector.close()
 
+@app.get("/health")
+@app.head("/health")
+async def health_check():
+    """Simple health check endpoint for monitoring services"""
+    return {"status": "ok", "service": "NetraAI"}
+
 @app.get("/")
 async def root():
     """API root endpoint"""

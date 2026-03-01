@@ -29,7 +29,7 @@ const apiClient = axios.create({
     'Accept': 'application/json',
   },
   withCredentials: false,
-  timeout: 30000,
+  timeout: 90000, // 90 seconds - Render free tier can take 30-60s to wake up
 });
 
 // Add response interceptor for better error handling

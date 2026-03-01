@@ -59,7 +59,8 @@ const Dashboard = () => {
       <div className="flex items-center justify-center h-64">
         <div className="flex flex-col items-center space-y-4">
           <div className="w-16 h-16 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin"></div>
-          <p className="text-slate-400">Loading intelligence data...</p>
+          <p className="text-slate-400 text-lg">Loading intelligence data...</p>
+          <p className="text-slate-500 text-sm">⏳ First load may take 30-60 seconds (free tier waking up)</p>
         </div>
       </div>
     );
